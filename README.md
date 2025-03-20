@@ -2,9 +2,9 @@
 
 Intern @ ModeON
 
-[![Seu Nome](https://img.shields.io/badge/Seu%20Nome-%2338A169?style=flat&logo=whatever&logoColor=white)](https://seu-link.com)
-[![Email](https://img.shields.io/badge/seu.email%40gmail.com-%2338A169?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/@seuusuario-%2338A169?style=flat&logo=github&logoColor=white)](https://github.com/seuusuario)
+[![Reginaldo Gomes](https://img.shields.io/badge/Reginaldo%20Gomes-%2338A169?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2338A169?style=flat&logo=internet-explorer&logoColor=white)](https://seu-portfolio.com)
+[![reggidev@gmail](https://img.shields.io/badge/reggidev%40gmail.com-%2338A169?style=flat&logo=gmail&logoColor=white)](mailto:reggidev@gmail.com)
 
 
 
