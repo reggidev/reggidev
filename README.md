@@ -6,6 +6,8 @@ Intern @ ModeON
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2338A169?style=flat&logo=internet-explorer&logoColor=white)](https://reggidev.vercel.app)
 [![reggidev@gmail](https://img.shields.io/badge/reggidev%40gmail.com-%2338A169?style=flat&logo=gmail&logoColor=white)](mailto:reggidev@gmail.com)
 
+Passionate about creating efficient and scalable solutions, I strive to develop clean and reusable code while ensuring an exceptional user experience. I enjoy collaborating with others, exchanging knowledge, and continuously learning to improve my skills. My focus is always on delivering the best possible solution to each challenge, balancing performance, usability, and innovation.
+
 ---
 
 ### 📌 Sobre mim
