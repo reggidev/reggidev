@@ -25,9 +25,3 @@ Passionate about creating efficient and scalable solutions, I strive to develop 
 ![Node.js](https://img.shields.io/badge/-Node.js-2D2D2D?style=flat&logo=node.js&logoColor=339933) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2D2D2D?style=flat&logo=mongodb&logoColor=47A248) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2D2D2D?style=flat&logo=postgresql&logoColor=336791) 
-
----
-
-### 📫 Entre em Contato
-📍 Brasil | 🌎 [Meu site](https://seusite.com)  
-✉️ seu-email@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
