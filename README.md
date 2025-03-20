@@ -1,11 +1,6 @@
 # Reginaldo Gomes 👋
 
-<h1 align="center">Seu Nome</h1>
-<h3 align="center">Desenvolvedor Frontend | Especialista em React.js</h3>
-
-<p align="center">
-  🚀 Apaixonado por tecnologia e desenvolvimento web, ajudando empresas a criar experiências digitais incríveis.
-</p>
+Intern @ ModeON
 
 <p align="center">
   <a href="https://linkedin.com/in/seu-perfil" target="_blank">
