@@ -13,27 +13,27 @@ Passionate about creating efficient and scalable solutions, I strive to develop 
 ## 🛠 Tech Stack  
 
 ### 💻 Front-end:  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-2D2D2D?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-2D2D2D?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-2D2D2D?style=flat&logo=javascript&logoColor=F7DF1E) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-2D2D2D?style=flat&logo=typescript&logoColor=3178C6) 
+![React](https://img.shields.io/badge/-React-2D2D2D?style=flat&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/-Next.js-2D2D2D?style=flat&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-2D2D2D?style=flat&logo=tailwind-css&logoColor=38B2AC)  
 
 ### ⚙️ Back-end e Banco de Dados:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-2D2D2D?style=flat&logo=node.js&logoColor=339933) 
+![Express.js](https://img.shields.io/badge/-Express.js-2D2D2D?style=flat&logo=express&logoColor=white) 
+![NestJS](https://img.shields.io/badge/-NestJS-2D2D2D?style=flat&logo=nestjs&logoColor=E0234E) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-2D2D2D?style=flat&logo=mongodb&logoColor=47A248) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2D2D2D?style=flat&logo=postgresql&logoColor=336791) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-2D2D2D?style=flat&logo=graphql&logoColor=E10098)  
 
 ### 🔧 Ferramentas e Outros:  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-2D2D2D?style=flat&logo=git&logoColor=F05032) 
+![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=flat&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2D2D2D?style=flat&logo=docker&logoColor=2496ED) 
+![ESLint](https://img.shields.io/badge/-ESLint-2D2D2D?style=flat&logo=eslint&logoColor=4B32C3)  
 
 ---
 
