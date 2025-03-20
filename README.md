@@ -1,4 +1,4 @@
-# Reginaldo Gomes 👋
+# Reginaldo Gomes
 
 Intern @ModeON
 
