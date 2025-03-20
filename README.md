@@ -2,6 +2,12 @@
 
 Intern @ ModeON
 
+[![Seu Nome](https://img.shields.io/badge/Seu%20Nome-%2338A169?style=flat&logo=whatever&logoColor=white)](https://seu-link.com)
+[![Email](https://img.shields.io/badge/seu.email%40gmail.com-%2338A169?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/@seuusuario-%2338A169?style=flat&logo=github&logoColor=white)](https://github.com/seuusuario)
+
+
+
 <p>
   <a href="https://www.linkedin.com/in/reggidev/" target="_blank">
     Reginaldo Gomes
