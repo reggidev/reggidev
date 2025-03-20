@@ -13,8 +13,8 @@ Passionate about creating efficient and scalable solutions, I strive to develop 
 ## 🛠 Tech Stack  
 
 ### 💻 Front-end:  
-![HTML](https://img.shields.io/badge/-HTML-2D2D2D?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-2D2D2D?style=flat&logo=css3&logoColor=white) 
+![HTML](https://img.shields.io/badge/-HTML-2D2D2D?style=flat&logo=html5&logoColor=D25A36) 
+![CSS](https://img.shields.io/badge/-CSS-2D2D2D?style=flat&logo=css3&logoColor=3571B1) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2D2D2D?style=flat&logo=javascript&logoColor=F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2D2D2D?style=flat&logo=typescript&logoColor=3178C6) 
 ![React](https://img.shields.io/badge/-React-2D2D2D?style=flat&logo=react&logoColor=61DAFB) 
