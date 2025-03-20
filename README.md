@@ -1,6 +1,6 @@
 # Reginaldo Gomes 👋
 
-Intern @ ModeON
+Intern @ModeON
 
 [![Reginaldo Gomes](https://img.shields.io/badge/Reginaldo%20Gomes-%2338A169?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reggidev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2338A169?style=flat&logo=internet-explorer&logoColor=white)](https://reggidev.vercel.app)
