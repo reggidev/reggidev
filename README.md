@@ -3,11 +3,11 @@
 Intern @ ModeON
 
 <p>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/reggidev/" target="_blank">
+    Reginaldo Gomes
   </a>
-  <a href="https://[Portfolio](https://reggidev.vercel.app/)">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white" />
+  <a href="https://reggidev.vercel.app/">
+    Portfolio
   </a>
   <a href="mailto:reggidev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
