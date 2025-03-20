@@ -23,17 +23,8 @@ Passionate about creating efficient and scalable solutions, I strive to develop 
 
 ### ⚙️ Back-end e Banco de Dados:  
 ![Node.js](https://img.shields.io/badge/-Node.js-2D2D2D?style=flat&logo=node.js&logoColor=339933) 
-![Express.js](https://img.shields.io/badge/-Express.js-2D2D2D?style=flat&logo=express&logoColor=white) 
-![NestJS](https://img.shields.io/badge/-NestJS-2D2D2D?style=flat&logo=nestjs&logoColor=E0234E) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2D2D2D?style=flat&logo=mongodb&logoColor=47A248) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2D2D2D?style=flat&logo=postgresql&logoColor=336791) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-2D2D2D?style=flat&logo=graphql&logoColor=E10098)  
-
-### 🔧 Ferramentas e Outros:  
-![Git](https://img.shields.io/badge/-Git-2D2D2D?style=flat&logo=git&logoColor=F05032) 
-![GitHub](https://img.shields.io/badge/-GitHub-2D2D2D?style=flat&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2D2D2D?style=flat&logo=docker&logoColor=2496ED) 
-![ESLint](https://img.shields.io/badge/-ESLint-2D2D2D?style=flat&logo=eslint&logoColor=4B32C3)  
 
 ---
 
