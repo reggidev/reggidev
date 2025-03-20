@@ -2,8 +2,8 @@
 
 Intern @ModeON
 
-[![LinkedIn](https://img.shields.io/badge/-Reginaldo%20Gomes-2D2D2D?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-usuario)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-2D2D2D?style=flat&)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-Reginaldo%20Gomes-2D2D2D?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/reggidev)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-2D2D2D?style=flat&)](https://reggidev.vercel.app)
 [![Email](https://img.shields.io/badge/-reggidev@gmail.com-2D2D2D?style=flat&logo=gmail&logoColor=D14836)](mailto:reggidev@gmail.com)
 
 Passionate about creating efficient and scalable solutions, I strive to develop clean and reusable code while ensuring an exceptional user experience. I enjoy collaborating with others, exchanging knowledge, and continuously learning to improve my skills. My focus is always on delivering the best possible solution to each challenge, balancing performance, usability, and innovation.
